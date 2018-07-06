@@ -9,7 +9,7 @@
     <tag>
         <name>extends</name>
         <tag-class>kr.pe.kwonnam.jsp.inheritance.ExtendsTag</tag-class>
-        <body-content>scriptless</body-content>
+        <body-content>JSP</body-content>
         <attribute>
             <name>name</name>
             <description>layout name</description>
@@ -21,7 +21,7 @@
     <tag>
         <name>block</name>
         <tag-class>kr.pe.kwonnam.jsp.inheritance.BlockTag</tag-class>
-        <body-content>scriptless</body-content>
+        <body-content>JSP</body-content>
         <attribute>
             <name>name</name>
             <description>block name</description>
@@ -33,7 +33,7 @@
     <tag>
         <name>put</name>
         <tag-class>kr.pe.kwonnam.jsp.inheritance.PutTag</tag-class>
-        <body-content>scriptless</body-content>
+        <body-content>JSP</body-content>
         <attribute>
             <name>block</name>
             <description>block name to put</description>
